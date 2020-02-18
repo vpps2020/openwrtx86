@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt0.2
+name: Build OpenWrt
 
 on:
   release:
